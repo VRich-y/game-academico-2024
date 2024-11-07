@@ -6,7 +6,7 @@
 [node name="MainScene" type="Node2D"]
 
 [node name="Background" parent="." instance=ExtResource("1_3fu3d")]
-position = Vector2(106, -252)
+position = Vector2(903, -19)
 
 [node name="ship" parent="." instance=ExtResource("2_2sbr6")]
-position = Vector2(26, 34)
+position = Vector2(106, 90)
